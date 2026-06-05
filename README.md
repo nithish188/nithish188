@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithishkumar%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Systems%20%26%20IoT%20Developer%20%7C%20Firmware%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithishkumar%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Systems%20IoT%20Developer%20%7C%20Firmware%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+IoT+Developer;Embedded+C+%7C+ATmega16+%7C+ESP8266;Firmware+Development+%7C+Sensor+Interfacing;Building+Smart+Connected+Devices;Turning+Ideas+Into+Real+World+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Embedded+Systems+IoT+Developer;Embedded+C+%7C+ATmega16+%7C+ESP8266;Firmware+Development+%7C+Sensor+Interfacing;Building+Smart+Connected+Devices;Turning+Ideas+Into+Real+World+Products" />
 
 </div>
 
@@ -17,6 +17,10 @@
 ---
 
 # 🧑‍💻 About Me
+
+<table>
+<tr>
+<td valign="top">
 
 Embedded Systems & IoT Developer passionate about designing firmware, integrating hardware, and building intelligent connected systems.
 
@@ -42,6 +46,13 @@ To build robust embedded products that combine firmware, electronics, connectivi
 ### 🏆 Highlight
 
 Successfully developed and deployed a Wi-Fi based Classroom Automation System used in a real college environment.
+
+</td>
+<td valign="top" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340"/>
+</td>
+</tr>
+</table>
 
 ---
 
