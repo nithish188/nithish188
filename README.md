@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Nithishkumar%20B&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Embedded%20%26%20IoT%20Developer%20%7C%20Firmware%20Engineer%20%7C%20Hardware-Software%20Integrator&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithishkumar%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20%26%20IoT%20Developer%20%7C%20Firmware%20Engineer%20%7C%20Hardware-Software%20Integrator&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Embedded+%26+IoT+Developer+%F0%9F%94%A7;AVR+%7C+Arduino+%7C+ESP8266+%7C+Atmega16;Sensor+Interfacing+%26+GPIO+Programming;Building+Smart+Connected+Devices+%F0%9F%8C%90" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Embedded+%26+IoT+Developer+;AVR+%7C+Arduino+%7C+ESP8266+%7C+Atmega16;Sensor+Interfacing+%26+GPIO+Programming;Building+Smart+Connected+Devices+" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithish188&amp;label=Profile+Views&amp;color=70a5fd&amp;style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/nithish188?label=Followers&amp;style=flat-square&amp;color=bf91f3&amp;labelColor=0d1117" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=nithish188&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/nithish188?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" alt="Followers"/>
 </div>
 
 ---
@@ -111,10 +111,10 @@ int main() {
 
 <div align="center">
   <a href="https://github.com/nithish188">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nithish188&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nithish188&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/nithish188">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish188&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish188&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -123,7 +123,7 @@ int main() {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nithish188&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nithish188&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -131,7 +131,7 @@ int main() {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithish188&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithish188&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -139,7 +139,7 @@ int main() {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nithish188&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nithish188&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -269,4 +269,4 @@ int main() {
   <i>"Build. Break. Fix. Repeat. — The Embedded Developer's Mantra ⚡"</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
