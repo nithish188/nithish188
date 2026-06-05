@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithishkumar%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20%26%20IoT%20Developer%20%7C%20Firmware%20Engineer%20%7C%20Hardware-Software%20Integrator&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithishkumar%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20IoT%20Developer%20%7C%20Firmware%20Engineer%20%7C%20AVR%20%7C%20ESP8266&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Embedded+%26+IoT+Developer+;AVR+%7C+Arduino+%7C+ESP8266+%7C+Atmega16;Sensor+Interfacing+%26+GPIO+Programming;Building+Smart+Connected+Devices+" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Embedded+IoT+Developer;AVR+%7C+Arduino+%7C+ESP8266+%7C+Atmega16;Sensor+Interfacing+%7C+GPIO+Programming;Building+Smart+Connected+Devices" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -15,7 +15,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```c
 /* about_nithish.c */
@@ -39,28 +41,32 @@ void motto(Developer *dev) {
 int main() {
     Developer me = {
         .name     = "Nithishkumar B",
-        .location = "Erode, Tamil Nadu, India 📍",
+        .location = "Erode, Tamil Nadu, India",
         .degree   = "B.E. ECE @ M.P. Nachimuthu M. Jaganathan Engg. College",
-        .role     = "Embedded Firmware & IoT Developer",
+        .role     = "Embedded Firmware and IoT Developer",
         .stack    = {
             "Embedded C", "AVR / Atmega16",
             "Arduino UNO", "ESP8266",
             "Python", "C"
         },
         .currentlyLearning = {
-            "RTOS & Bare-Metal Programming",
+            "RTOS and Bare-Metal Programming",
             "YOLO-based Computer Vision",
             "Cloud IoT Platforms (AWS IoT)"
         },
-        .funFact  = "I automate my college classrooms 🏫⚡"
+        .funFact = "I automate my college classrooms!"
     };
-
     motto(&me);
     return 0;
 }
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" align="center" width="40%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340"/>
+</td>
+</tr>
+</table>
 
 ---
 
